@@ -14,8 +14,8 @@ import matplotlib.pyplot as plt
 import os
 from statistics import mode
 
-pytesseract.pytesseract.tesseract_cmd = 'C:/Program Files (x86)/Tesseract-OCR/tesseract'
-DIR_NAME = 'C:/Users/leand/Desktop/DIP_OCR/OCR_DATABOOK/docs_show'
+#pytesseract.pytesseract.tesseract_cmd = 'C:/Program Files (x86)/Tesseract-OCR/tesseract'
+DIR_NAME = 'C:/Users/leand/Desktop/Desk/DIPF2/teste'
 IDX_FILE = 1
 files = os.listdir(DIR_NAME)
 files = sorted(files)

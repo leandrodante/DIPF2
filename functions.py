@@ -7,7 +7,7 @@ import os
 import pyautogui
 import class_util 
 
-IMAGE_PATH = 'C:/Users/leand/Desktop/DIP_OCR/OCR_DATABOOK/docs_show'
+IMAGE_PATH = 'C:/Users/leand/Desktop/Desk/DIPF2/teste'
 def analysisAlgorithimic(IMAGE_NAME,LEVEL,IMAGE_FORMAT):
     px_return = 0
 
